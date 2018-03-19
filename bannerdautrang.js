@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://2.bp.blogspot.com/-b0D9peNnG_Y/WbotPKSgqII/AAAAAAAAASk/HvFTHmnf_1Mykvcwv_FIbXcx_3i-oGwMACLcBGAs/s1600/shop%2Bdan%2Borgan%2Bgia%2Buu%2Bdai.jpg' width='500px'/><br/>GỌI NGAY 0909 736 782 Ms Hương</a>. ĐỂ LẤY MÃ GIẢM GIÁ 10%. <h2><a class='close-nguyentrong-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://vietthanhmusic.vn/image/catalog/Tin tức/banner-khuyen-mai-piano.jpg' width='500px'/><br/>CHƯƠNG TRÌNH GIẢM GIÁ 10%</a>. GỌI NGAY 0909 736 782 MS HƯƠNG. <h2><a class='close-nguyentrong-modal'>X</a></h2>");
 			$('#myModal').nguyentrong($('#myModal').data());
 		}
 });
